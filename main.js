@@ -1,0 +1,1 @@
+console.log ("Damn, 16 old and just getting even crazier")
